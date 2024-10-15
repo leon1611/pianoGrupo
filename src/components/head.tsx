@@ -1,5 +1,7 @@
 
 import { Link } from 'react-router-dom'; // Usamos react-router-dom para navegar entre las páginas
+import './head'
+
 
 export default function Head() {
   return (

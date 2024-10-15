@@ -1,5 +1,6 @@
 
 import { useNavigate } from 'react-router-dom';
+import './window'
 
 export default function Window() {
   const navigate = useNavigate();
